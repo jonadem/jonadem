@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonadem&count_private=true&show_icons=true&theme=radical&custom_title=Jona's%20Stats" />
 
 <!--
 **jonadem/jonadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
