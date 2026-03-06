@@ -1,6 +1,9 @@
-<!-- From https://github.com/anuraghazra/github-readme-stats -->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonadem&count_private=true&show_icons=true&theme=radical&custom_title=Jona's%20Stats" alt="This image should show some stats about my GitHub profile"/>
+<!-- From https://github.com/anuraghazra/github-readme-stats -->
+<!-- This is not working anymore: <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonadem&count_private=true&show_icons=true&theme=radical&custom_title=Jona's%20Stats" alt="This image should show some stats about my GitHub profile"/>-->
 
 <!--
 **jonadem/jonadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
